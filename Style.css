@@ -1,0 +1,25 @@
+
+html
+{
+	background-attachment: fixed;
+	background-image: url(images/Sky.jpg);
+}
+#Mtman{text-align: center;}
+#landpg{
+	margin:auto;
+	margin-top:12%;
+	margin-bottom:auto;
+	text-align: center;
+    height: 100px;
+    width: 500px;
+    background-color: orange;
+}
+#maincontainer{
+	max-width:85%;
+	background-color:#ff9933;
+	margin:auto;
+	padding:10px;
+	
+	
+}
+#header1{color:red;}
